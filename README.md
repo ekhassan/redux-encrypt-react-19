@@ -23,7 +23,7 @@ A React application demonstrating encrypted state persistence using Redux Toolki
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone 'https://github.com/ekhassan/redux-encrypt-react-19.git'
 cd redux-encrypt
 ```
 

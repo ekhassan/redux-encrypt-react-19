@@ -26,7 +26,7 @@ const countPersistConfig = {
 const persistedCountReducer = persistReducer(countPersistConfig, countReducer)
 
 const rootReducers = combineReducers({
-    count: persistedCountReducer,
+    count: persistedCountReducer, 
 })
 
 const store = configureStore({
